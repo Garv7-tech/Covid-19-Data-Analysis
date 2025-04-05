@@ -186,5 +186,6 @@ R² = 0.672
 This analysis demonstrates a strong, statistically significant relationship between COVID-19 case counts and subsequent mortality. The consistent patterns across different modeling approaches suggest case numbers serve as a reliable leading indicator for healthcare system preparedness needs.
 
 ## 8. Resources
-![Code]()
-([Dataset](https://covid.ourworldindata.org/data/owid-covid-data.csv))
+[Code](https://github.com/Garv7-tech/Covid-19-Data-Analysis)
+
+[Dataset](https://covid.ourworldindata.org/data/owid-covid-data.csv)
